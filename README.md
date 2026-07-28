@@ -60,11 +60,14 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="374" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFkdnhqMXE5dzZja2NzdXZzcXZyd2owY3NjdnljOXN6NWVtdTl6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jyTk0vpfS0pyqkgpZu/giphy.gif"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFkdnhqMXE5dzZja2NzdXZzcXZyd2owY3NjdnljOXN6NWVtdTl6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jyTk0vpfS0pyqkgpZu/giphy.gif"
+       width="800"
+       alt="Tom and Jerry GIF" />
 </div>
 
-###
+
+
 ###
 
 <h1 align="center">🎧 Music & Vibes</h1>
