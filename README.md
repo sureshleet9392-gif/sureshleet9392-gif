@@ -74,14 +74,19 @@
 
 ###
 
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suresh9676888/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@suresh9676888/0" alt="Medium post 1"  />
+###
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📝%20My%20Medium%20Articles-red?style=for-the-badge" alt="My Medium Articles" />
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@suresh9676888" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suresh9676888/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@suresh9676888/1" alt="Medium post 2"  />
-  </a>
-</div>
+</p>
+
+###
 
 ###
 
