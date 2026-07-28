@@ -65,12 +65,21 @@
 </div>
 
 ###
+###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/ 31tbnuq2r3lkvpmsttn34gvd3kbu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%2031tbnuq2r3lkvpmsttn34gvd3kbu&count=5&unique=true" alt="Spotify recently played"  />
+<h1 align="center">🎧 Music & Vibes</h1>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31tbnuq2r3lkvpmsttn34gvd3kbu" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
-</div>
+</p>
+
+<p align="center">
+  <i>🎶 Coding with music, one commit at a time.</i>
+</p>
+
+###
 
 ###
 
