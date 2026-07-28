@@ -31,14 +31,11 @@
 ###
 ###
 
-<h3 align="center"></h3>
+<h3 align="left"></h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sureshleet9392-gif/sureshleet9392-gif/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-
-###
-
 
 
 <div data-importer="techs" align="center">
