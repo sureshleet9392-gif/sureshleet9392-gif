@@ -74,10 +74,11 @@
 
 ###
 
+
 ###
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📝%20My%20Medium%20Articles-red?style=for-the-badge" alt="My Medium Articles" />
+  <img src="https://img.shields.io/badge/📝%20My%20Medium%20Articles-red?style=for-the-badge&logo=medium&logoColor=white" height="50"/>
 </p>
 
 <p align="center">
@@ -87,6 +88,7 @@
 </p>
 
 ###
+
 
 ###
 
