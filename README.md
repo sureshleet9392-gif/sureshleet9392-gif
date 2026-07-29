@@ -82,11 +82,9 @@ Motto:       "Code. Learn. Build. Repeat."
 ---
 
 ## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7&title_color=6C63FF"/>
-</div>
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshleet9392-gif&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 💻 Coding Profiles
