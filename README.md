@@ -46,9 +46,6 @@
 
 <br>
 </div>
-
-
-
 <br>
 
 <p align="center">
@@ -59,7 +56,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
 </div>
 
-<br>
+
 
 <p align="center">
 I'm a <b>B.Tech Computer Science student</b> with a strong focus on <b>Java Development</b> and a growing specialization in <b>Artificial Intelligence & Machine Learning</b>.<br><br>
