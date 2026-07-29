@@ -6,7 +6,6 @@
 </p>
 </div>
 <div align="center">
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Connect%20Me%20🤝&fontColor=ffffff&fontSize=40"/>
@@ -46,9 +45,6 @@
 </a>
 
 <br>
-
-
-
 </div>
 
 
@@ -60,10 +56,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
 </div>
-
 I'm a **B.Tech Computer Science student** with a strong focus on **Java development** and a growing specialization in **Artificial Intelligence & Machine Learning**. I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative tools.
 
-<br/>
 
 <div align="center">
 
