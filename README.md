@@ -101,7 +101,7 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 <div align="center">
 
-> ### 🚀 *"Code. Learn. Build. Repeat."*
+> ### 🚀 <b>*"Code. Learn. Build. Repeat."*<b>
 
 </div>
 
