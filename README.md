@@ -76,8 +76,9 @@ I enjoy translating real-world problems into working software — from IoT autom
 <a href="https://leetcode.com/your_username">
   <img src="https://img.shields.io/badge/📈_Practice-Daily_DSA-0E75B6?style=for-the-badge&labelColor=0d1117"/>
 </a>
-![Status](https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117)
-
+<a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
+  <img src="https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117"/>
+</a>
 </div>
 
 <br>
