@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:FF512F,100:DD2476&text=Charugundla%20Suresh&fontColor=ffffff&fontSize=90&desc=Software%20Developer%20•%20Problem%20Solver&descAlignY=70&descSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:FF512F,100:DD2476&text=Hi,%20I'm%20Charugundla%20Suresh%20👋&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20🚀&descAlignY=65&descSize=24"/>
 
 </div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sureshleet9392-gif&label=👀%20Profile%20Views&color=6C63FF&style=plastic"/>
 </p>
