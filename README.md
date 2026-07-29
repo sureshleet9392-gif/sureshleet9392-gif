@@ -49,16 +49,24 @@
 
 
 
-<br/>
+<br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=About%20Me%20👨‍💻&fontSize=38&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
 </p>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
-</div>
-I'm a **B.Tech Computer Science student** with a strong focus on **Java development** and a growing specialization in **Artificial Intelligence & Machine Learning**. I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative tools.
-</b>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
+</div>
+
+<br>
+
+<p align="center">
+I'm a <b>B.Tech Computer Science student</b> with a strong focus on <b>Java Development</b> and a growing specialization in <b>Artificial Intelligence & Machine Learning</b>.<br><br>
+I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative tools.
+</p>
+
+<br>
 
 <div align="center">
 
@@ -66,22 +74,28 @@ I'm a **B.Tech Computer Science student** with a strong focus on **Java developm
 ![Role](https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117)
 ![Focus](https://img.shields.io/badge/🤖_Focus-AI_/_ML-6C63FF?style=for-the-badge&labelColor=0d1117)
 
+<br><br>
+
 ![Practice](https://img.shields.io/badge/📈_Practice-Daily_DSA-0E75B6?style=for-the-badge&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
+<br>
 
-<br/>
+### ✨ Highlights
 
-- 🎓 Pursuing B.Tech, grounded in core CS fundamentals
-- 💻 Backend-leaning Java developer, comfortable across the stack
-- 🤖 Actively building and shipping AI/ML-powered applications
-- 📈 Consistent competitive programmer — DSA is a daily habit
-- 🎯 Currently sharpening system design & advanced algorithms
+- 🎓 Pursuing B.Tech with a strong foundation in Computer Science.
+- 💻 Backend-focused Java Developer with full-stack exposure.
+- 🤖 Building AI/ML-powered applications and real-world projects.
+- 📈 Solving DSA problems consistently to strengthen problem-solving skills.
+- 🎯 Currently learning System Design and Advanced Algorithms.
+
+<br>
 
 <div align="center">
 
-> *"Code. Learn. Build. Repeat."* 🚀
+> ### 🚀 *"Code. Learn. Build. Repeat."*
 
 </div>
 
