@@ -74,9 +74,6 @@ I enjoy translating real-world problems into working software — from IoT autom
   <img src="https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117"/>
 </a>
 
-
-<br><br>
-
 <a href="https://leetcode.com/your_username">
   <img src="https://img.shields.io/badge/📈_Practice-Daily_DSA-0E75B6?style=for-the-badge&labelColor=0d1117"/>
 </a>
