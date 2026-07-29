@@ -7,18 +7,52 @@
 
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Contact%20Me&fontColor=ffffff&fontSize=40"/>
+<div align="center">
+
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Contact%20Me&fontColor=ffffff&fontSize=40"/>
+
+<br><br>
+
 <p align="center">
-  <a href="mailto:suresh9676888@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/charugundlasuresh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sureshleet9392-gif"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/Suresh388860"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://medium.com/@suresh9676888"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.instagram.com/this.is_suresh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://wa.me/919392750917"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  💬 <b>Let's connect, collaborate, and build innovative solutions together.</b><br>
+  🚀 Open to internships, open-source contributions, project collaborations, and exciting tech opportunities.
 </p>
+
+<a href="mailto:suresh9676888@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sureshleet9392-gif" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Suresh388860" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@suresh9676888" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/this.is_suresh" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919392750917" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br><br>
+
+
+
+</div>
 
 
 
