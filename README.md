@@ -76,11 +76,9 @@ Motto:       "Code. Learn. Build. Repeat."
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sureshleet9392-gif&show_icons=true&theme=radical&hide_border=true&title_color=6C63FF&icon_color=0E75B6&text_color=ffffff&bg_color=0,0E75B6,6C63FF"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshleet9392-gif&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0,0E75B6,6C63FF"/>
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sureshleet9392-gif&show_icons=true&theme=tokyonight" />
+</p>
 ---
 
 ## 🏆 Trophies
