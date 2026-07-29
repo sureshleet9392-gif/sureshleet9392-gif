@@ -80,13 +80,13 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 <br>
 
-### ✨ Highlights
+### ⚡ Developer Snapshot
 
-- 🎓 Pursuing B.Tech with a strong foundation in Computer Science.
-- 💻 Backend-focused Java Developer with full-stack exposure.
-- 🤖 Building AI/ML-powered applications and real-world projects.
-- 📈 Solving DSA problems consistently to strengthen problem-solving skills.
-- 🎯 Currently learning System Design and Advanced Algorithms.
+- 🎓 Pursuing B.Tech with a strong foundation in Computer Science.***
+- 💻 Backend-focused Java Developer with full-stack exposure.***
+- 🤖 Building AI/ML-powered applications and real-world projects.***
+-📈 Solving DSA problems consistently to strengthen problem-solving skills.***
+- 🎯 Currently learning System Design and Advanced Algorithms.***
 
 <br>
 
