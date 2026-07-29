@@ -57,6 +57,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
 </div>
 I'm a **B.Tech Computer Science student** with a strong focus on **Java development** and a growing specialization in **Artificial Intelligence & Machine Learning**. I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative tools.
+</b>
 
 
 <div align="center">
