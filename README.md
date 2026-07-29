@@ -98,10 +98,13 @@ Motto:       "Code. Learn. Build. Repeat."
 
 </div>
 
-## 🏆 Trophies
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshleet9392-gif&layout=compact&theme=tokyonight" />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=sureshleet9392-gif&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=20&margin-h=20"/>
+
+</div>
 ---
 
 ## 💻 Coding Profiles
