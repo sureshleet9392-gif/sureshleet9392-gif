@@ -108,7 +108,9 @@ I enjoy translating real-world problems into working software — from IoT autom
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:0E75B6&height=3&section=footer"/>
 </div>
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Tech%20Stack%20🛠️&fontColor=ffffff&fontSize=40"/>
+</p>
 
 <div align="center">
 
