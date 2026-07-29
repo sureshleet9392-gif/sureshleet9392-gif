@@ -68,7 +68,9 @@ I enjoy translating real-world problems into working software — from IoT autom
 <div align="center">
 
 ![Education](https://img.shields.io/badge/🎓_Education-B.Tech,_CS-6C63FF?style=for-the-badge&labelColor=0d1117)
-![Role](https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117)
+<a href="https://github.com/sureshleet9392-gif?tab=repositories">
+  <img src="https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117"/>
+</a>
 ![Focus](https://img.shields.io/badge/🤖_Focus-AI_/_ML-6C63FF?style=for-the-badge&labelColor=0d1117)
 
 <br><br>
