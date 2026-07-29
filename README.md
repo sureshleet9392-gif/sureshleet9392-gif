@@ -24,7 +24,7 @@
 
 <br/>
 
-##<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=About%20Me%20👨‍💻&fontSize=38&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
 </p>
 <div align="center">
