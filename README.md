@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0E75B6,100:6C63FF&text=Charugundla%20Suresh&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Java%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20B.Tech%20Student&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:FF512F,100:DD2476&text=Charugundla%20Suresh&fontColor=ffffff&fontSize=48&desc=Software%20Developer%20•%20Problem%20Solver&descAlignY=70&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+efficient+software;Exploring+AI+%26+Machine+Learning;Solving+DSA%2C+one+problem+at+a+time" alt="Typing SVG"/>
+</div>
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=sureshleet9392-gif&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
