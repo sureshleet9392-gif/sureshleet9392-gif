@@ -26,48 +26,42 @@
 
 ## 🧭 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
+</div>
 
 I'm a **B.Tech Computer Science student** with a strong focus on **Java development** and a growing specialization in **Artificial Intelligence & Machine Learning**. I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative tools.
 
-&nbsp;
-
-🎓&nbsp; **Education** — Pursuing B.Tech, grounded in core CS fundamentals
-&nbsp;
-💻&nbsp; **Development** — Backend-leaning Java developer, comfortable across the stack
-&nbsp;
-🤖&nbsp; **AI/ML** — Actively building and shipping AI-powered applications
-&nbsp;
-📈&nbsp; **Practice** — Consistent competitive programmer, DSA is a daily habit
-&nbsp;
-🎯&nbsp; **Growth** — Currently sharpening system design & advanced algorithms
-
-</td>
-<td width="42%" valign="top">
+<br/>
 
 <div align="center">
 
-**Quick Facts**
+![Education](https://img.shields.io/badge/🎓_Education-B.Tech,_CS-6C63FF?style=for-the-badge&labelColor=0d1117)
+![Role](https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/🤖_Focus-AI_/_ML-6C63FF?style=for-the-badge&labelColor=0d1117)
 
-![Role](https://img.shields.io/badge/Role-Java%20Developer-6C63FF?style=flat-square&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20ML-0E75B6?style=flat-square&labelColor=0d1117)
-![Education](https://img.shields.io/badge/Education-B.Tech%2C%20CS-6C63FF?style=flat-square&labelColor=0d1117)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2EC866?style=flat-square&labelColor=0d1117)
-![Interests](https://img.shields.io/badge/Interests-DSA%20·%20IoT%20·%20GenAI-0E75B6?style=flat-square&labelColor=0d1117)
+![Practice](https://img.shields.io/badge/📈_Practice-Daily_DSA-0E75B6?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
-&nbsp;
+<br/>
+
+- 🎓 Pursuing B.Tech, grounded in core CS fundamentals
+- 💻 Backend-leaning Java developer, comfortable across the stack
+- 🤖 Actively building and shipping AI/ML-powered applications
+- 📈 Consistent competitive programmer — DSA is a daily habit
+- 🎯 Currently sharpening system design & advanced algorithms
+
+<div align="center">
 
 > *"Code. Learn. Build. Repeat."* 🚀
 
-</td>
-</tr>
-</table>
+</div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:0E75B6&height=3&section=footer"/>
+</div>
 
 ## 🛠️ Tech Stack
 
