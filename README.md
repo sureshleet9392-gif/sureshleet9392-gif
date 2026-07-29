@@ -17,8 +17,8 @@
   🚀 Open to internships, open-source contributions, project collaborations, and exciting tech opportunities.
 </p>
 
-<a href="mailto:suresh9676888@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=suresh9676888@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
