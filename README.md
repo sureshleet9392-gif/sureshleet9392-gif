@@ -1,110 +1,233 @@
-<h2 data-importer="text" align="center">Hi 👋 I'm Suresh Welcome to My GitHub Profile</h2>
+<h1 align="center">Hi 👋, I'm Charugundla Suresh</h1>
 
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=yellow&labelColor=&style=for-the-badge" height="41" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=suresh9676888@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/this.is_suresh?igsh=MWhnbmF3M3A2aG52NQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/919392750917" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1CcCp7YzeD/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/Suresh388860" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="visualstudio logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="41" alt="spotify logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="youtube logo"  />
-</div>
-
-###
-###
-
-<h3 align="left"></h3>
+<h3 align="center">
+💻 Java Developer | 🎓 B.Tech Student | 🤖 AI Enthusiast | 🚀 Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFkdnhqMXE5dzZja2NzdXZzcXZyd2owY3NjdnljOXN6NWVtdTl6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jyTk0vpfS0pyqkgpZu/giphy.gif"
-       width="800"
-       alt="Tom and Jerry GIF" />
-</div>
-
-
-
-###
-
-<h1 align="center">🎧 Music & Vibes</h1>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31tbnuq2r3lkvpmsttn34gvd3kbu" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
+Passionate about building real-world applications, solving coding challenges, and exploring Artificial Intelligence.
 </p>
 
 <p align="center">
-  <i>🎶 Coding with music, one commit at a time.</i>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-###
+---
 
-###
-
-
-###
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📝%20My%20Medium%20Articles-red?style=for-the-badge&logo=medium&logoColor=white" height="50"/>
+
+<a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:suresh9676888@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/this.is_suresh" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919392750917" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Suresh388860" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@suresh9676888" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 B.Tech Student
+- 💻 Passionate Java Developer
+- 🌱 Currently learning Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🚀 Building real-world software projects
+- 📚 Consistently solving coding problems
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💧 Smart Water Overflow Alarm | IoT-based automatic water overflow prevention system |
+| 🎵 AI Music Generation | AI-powered music generation using deep learning |
+| ☕ Java DSA | Collection of Java Data Structures & Algorithms solutions |
+| 🌐 Portfolio Website | Personal developer portfolio |
+
+---
+
+# 📜 Certifications
+
+🏅 Microsoft Azure AI Fundamentals
+
+🏅 NPTEL Certifications
+
+🏅 Oracle Certifications
+
+🏅 AWS Learning
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🎧 Coding Playlist
+
+<p align="center">
+
+<a href="https://open.spotify.com/user/31tbnuq2r3lkvpmsttn34gvd3kbu">
+
+<img src="https://img.shields.io/badge/Open%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://medium.com/@suresh9676888" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+
+<i>🎵 Music fuels my code and creativity.</i>
+
 </p>
 
-###
+---
 
-###
+# ✍ Latest Articles
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=344&section=footer&reversal=false&text=Build%20Today,%20Lead%20Tomorrow.&fontSize=33&fontColor=FFF&fontAlign=50&fontAlignY=60&rotate=0&stroke=FFFFFF&strokeWidth=1&animation=twinkling&textBg=false&color=gradient"  />
-</div>
+<p align="center">
 
-###
+<a href="https://medium.com/@suresh9676888">
+
+<img src="https://img.shields.io/badge/Read%20My%20Medium%20Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=40&animation=twinkling"/>
+
+</p>
