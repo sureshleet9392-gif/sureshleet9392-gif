@@ -76,16 +76,10 @@ Motto:       "Code. Learn. Build. Repeat."
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- GitHub Stats -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sureshleet9392-gif&show_icons=true&theme=radical&hide_border=true&title_color=6C63FF&icon_color=0E75B6&text_color=ffffff&bg_color=0,0E75B6,6C63FF"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=6C63FF&icon_color=0E75B6&text_color=ffffff&bg_color=0,0E75B6,6C63FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0,0E75B6,6C63FF"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0E75B6,6C63FF&ring=ffffff&fire=FFD700"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=6C63FF&line=0E75B6&point=FFD700"/>
-
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshleet9392-gif&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0,0E75B6,6C63FF"/>
 
 ---
 
