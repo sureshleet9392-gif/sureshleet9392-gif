@@ -62,7 +62,6 @@ I'm a **B.Tech Computer Science student** with a strong focus on **Java developm
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:0E75B6&height=3&section=footer"/>
 </div>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
