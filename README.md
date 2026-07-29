@@ -24,10 +24,9 @@
 
 <br/>
 
-##   <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=👨‍💻%20About%20Me&fontSize=38&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
+##<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=About%20Me%20👨‍💻&fontSize=38&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
 </p>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
 </div>
