@@ -8,91 +8,40 @@
 </div>
 
 <br/>
-
-
-
-
-<div align="center">
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=🤝%20Let's%20Connect%20|%20 %20Contact%20Me&fontColor=ffffff&fontSize=34"/> 
-
-
-
-<br><br>
-
-
-
-<p>
-
-I'm always open to discussing <strong>Software Development</strong>, <strong>Java</strong>, <strong>AI/ML</strong>, <strong>Open Source</strong>, internship opportunities, and exciting collaborations.
-
-</p>
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Contact%20Me&fontColor=ffffff&fontSize=40"/>
 <br>
-
-
-
 <a href="mailto:suresh9676888@gmail.com">
-
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 <a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
-
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-
-
 <a href="https://github.com/sureshleet9392-gif" target="_blank">
-
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-
-
 <a href="https://x.com/Suresh388860" target="_blank">
 
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 
 </a>
-
-
-
 <a href="https://medium.com/@suresh9676888" target="_blank">
 
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 
 </a>
-
-
-
 <a href="https://www.instagram.com/this.is_suresh" target="_blank">
 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 </a>
-
-
-
 <a href="https://wa.me/919392750917" target="_blank">
 
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 </a>
-
-
-
 </div>
+
+
 
 <br/>
 <p align="center">
