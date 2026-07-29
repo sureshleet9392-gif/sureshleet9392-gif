@@ -76,10 +76,27 @@ Motto:       "Code. Learn. Build. Repeat."
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sureshleet9392-gif&show_icons=true&theme=tokyonight" />
-</p>
----
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sureshleet9392-gif&theme=github_dark"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sureshleet9392-gif&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sureshleet9392-gif&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sureshleet9392-gif&theme=github_dark"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=sureshleet9392-gif&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshleet9392-gif&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ## 🏆 Trophies
 <p align="center">
