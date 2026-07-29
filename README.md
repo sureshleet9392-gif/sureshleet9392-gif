@@ -4,11 +4,9 @@
 
 </div>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=sureshleet9392-gif&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sureshleet9392-gif&label=👀%20Profile%20Views&color=6C63FF&style=plastic"/>
+</p>
 <br/>
 
 <div align="center">
