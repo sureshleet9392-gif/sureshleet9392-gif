@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Contact%20Me&fontColor=ffffff&fontSize=40"/>
 
-<br><br>
+<br>
 
 <p align="center">
   💬 <b>Let's connect, collaborate, and build innovative solutions together.</b><br>
