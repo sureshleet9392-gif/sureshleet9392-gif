@@ -28,27 +28,40 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 I'm a **B.Tech Computer Science student** with a strong focus on **Java development** and a growing specialization in **Artificial Intelligence & Machine Learning**. I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative tools.
 
-- 🎓 Pursuing B.Tech, focused on core CS fundamentals
-- 💻 Backend-leaning Java developer, comfortable across the stack
-- 🤖 Actively building and shipping AI/ML-powered applications
-- 📈 Consistent competitive programmer — DSA is a daily habit
-- 🎯 Currently sharpening system design & advanced algorithms
+&nbsp;
+
+🎓&nbsp; **Education** — Pursuing B.Tech, grounded in core CS fundamentals
+&nbsp;
+💻&nbsp; **Development** — Backend-leaning Java developer, comfortable across the stack
+&nbsp;
+🤖&nbsp; **AI/ML** — Actively building and shipping AI-powered applications
+&nbsp;
+📈&nbsp; **Practice** — Consistent competitive programmer, DSA is a daily habit
+&nbsp;
+🎯&nbsp; **Growth** — Currently sharpening system design & advanced algorithms
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-```yaml
-Role:        Java Developer
-Focus:       AI / Machine Learning
-Education:   B.Tech, CS
-Status:      Open to opportunities
-Interests:   DSA · IoT · Generative AI
-Motto:       "Code. Learn. Build. Repeat."
-```
+<div align="center">
+
+**Quick Facts**
+
+![Role](https://img.shields.io/badge/Role-Java%20Developer-6C63FF?style=flat-square&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20ML-0E75B6?style=flat-square&labelColor=0d1117)
+![Education](https://img.shields.io/badge/Education-B.Tech%2C%20CS-6C63FF?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2EC866?style=flat-square&labelColor=0d1117)
+![Interests](https://img.shields.io/badge/Interests-DSA%20·%20IoT%20·%20GenAI-0E75B6?style=flat-square&labelColor=0d1117)
+
+</div>
+
+&nbsp;
+
+> *"Code. Learn. Build. Repeat."* 🚀
 
 </td>
 </tr>
