@@ -8,11 +8,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=About%20Me%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=38&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
 </p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
 </div>
-
 <p align="center">
 I'm a <b>B.Tech Computer Science student</b> passionate about <b>Java Development</b><br>
 and <b>Artificial Intelligence &amp; Machine Learning</b>.<br><br>
