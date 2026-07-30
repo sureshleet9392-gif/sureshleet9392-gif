@@ -10,6 +10,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00FFFF,20:00FF00,40:FFFF00,60:FF8000,80:FF0000,100:FF00FF&section=footer"/>
 </div>
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00C9FF,20:00E5FF,40:00FFCC,60:7CFC00,80:00BFFF,100:4169E1&section=footer"/>
+</div>
 
 
 </div>
@@ -64,9 +69,8 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 ### 🚀 *"Code. Learn. Build. Repeat."*
 
-</div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00FFFF,20:00FF00,40:FFFF00,60:FF8000,80:FF0000,100:FF00FF&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00C9FF,20:00E5FF,40:00FFCC,60:7CFC00,80:00BFFF,100:4169E1&section=footer"/>
 </div>
 
 <b><br>
