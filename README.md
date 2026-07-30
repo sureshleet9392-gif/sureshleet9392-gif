@@ -101,47 +101,41 @@ I enjoy translating real-world problems into working software — from IoT autom
 > ### 🚀 <b>*"Code. Learn. Build. Repeat."*<b>
 
 </div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,100:0E75B6&height=3&section=footer"/>
-</div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Tech%20Stack%20🛠️&fontColor=ffffff&fontSize=40"/>
-</p>
-
 <div align="center">
 
 <a href="https://www.codingshuttle.com/compilers/java/" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.codingshuttle.com/compilers/python/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://nextleap.app/online-compiler/c-programming" target="_blank">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.jdoodle.com/html-css-javascript-online-editor-ide" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.jdoodle.com/html-css-javascript-online-editor-ide" target="_blank">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.programiz.com/sql/online-compiler" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/sureshleet9392-gif" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
