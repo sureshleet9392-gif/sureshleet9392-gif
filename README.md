@@ -145,9 +145,19 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 </div>
 
 
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF512F,100:DD2476&height=3&section=footer"/>
+</div>
+
+<br><br><br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Connect%20Me%20🤝&fontColor=ffffff&fontSize=40"/>
 </p>
+
+<br>
 
 <p align="center">
   💬 <b>Let's connect, collaborate, and build innovative solutions together.</b><br>
@@ -159,22 +169,22 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 <p align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=suresh9676888@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/sureshleet9392-gif" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://x.com/Suresh388860" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
@@ -186,13 +196,13 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/this.is_suresh" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://wa.me/919392750917" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
@@ -200,12 +210,11 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 </p>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF512F,100:DD2476&height=3&section=footer"/>
 </div>
-
 
 
 
