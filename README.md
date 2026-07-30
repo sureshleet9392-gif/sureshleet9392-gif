@@ -147,15 +147,9 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 <br><br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF512F,100:DD2476&height=3&section=footer"/>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Connect%20Me%20🤝&fontColor=ffffff&fontSize=40"/>
 </p>
-
-<br>
 
 <p align="center">
   💬 <b>Let's connect, collaborate, and build innovative solutions together.</b><br>
