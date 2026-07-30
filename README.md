@@ -263,11 +263,11 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 
 
-<a href="YOUR_AWS_CERTIFICATE_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/AWS%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/cryptography.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Cryptography%20Certificate-4B0082?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="YOUR_NPTEL_CERTIFICATE_LINK" target="_blank">
   <img src="https://img.shields.io/badge/NPTEL%20Certified-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
