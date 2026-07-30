@@ -269,8 +269,8 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 &nbsp;&nbsp;
 
-<a href="YOUR_NPTEL_CERTIFICATE_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/NPTEL%20Certified-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/soft%20skills.jfif" target="_blank">
+  <img src="https://img.shields.io/badge/NPTEL%20Soft%20Skills-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 
 </div>
