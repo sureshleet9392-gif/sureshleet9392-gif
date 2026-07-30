@@ -218,48 +218,11 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=7&color=0:FF0080,10:FF8C00,20:FFFF00,30:00FF00,40:00FFFF,50:0080FF,60:8000FF,70:FF00FF,80:FF1493,90:FFD700,100:00FFFF&section=footer"/>
 </div>
+<br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:00FFFF,20:1E90FF,40:FFFFFF,60:FFD700,80:FF4500,100:FF0000&section=footer"/>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Tech%20Stack%20%F0%9F%92%BB&fontColor=ffffff&fontSize=40"/>
@@ -330,6 +293,12 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshleet9392-gif&theme=tokyo-night&hide_border=true&area=true"/>
 
+</div>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:00FFFF,20:1E90FF,40:FFFFFF,60:FFD700,80:FF4500,100:FF0000&section=footer"/>
 </div>
 
 
