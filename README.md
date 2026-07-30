@@ -174,17 +174,19 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 
 <br><br>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=7&color=0:FF0080,10:FF8C00,20:FFFF00,30:00FF00,40:00FFFF,50:0080FF,60:8000FF,70:FF00FF,80:FF1493,90:FFD700,100:00FFFF&section=footer"/>
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Connect%20Me%20🤝&fontColor=ffffff&fontSize=40"/>
 </p>
-
 <p align="center">
   💬 <b>Let's connect, collaborate, and build innovative solutions together.</b><br>
   🚀 Open to internships, open-source contributions, project collaborations, and exciting tech opportunities.
 </p>
 
 <p align="center">
-
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=suresh9676888@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -194,8 +196,6 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
-
-
 <a href="https://github.com/sureshleet9392-gif" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;&nbsp;
@@ -203,13 +203,6 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 <a href="https://x.com/Suresh388860" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>&nbsp;&nbsp;
-
-
-<a href="https://medium.com/@suresh9676888" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>&nbsp;&nbsp;
-
-
 
 <a href="https://www.instagram.com/this.is_suresh" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -224,7 +217,7 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF512F,100:DD2476&height=3&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=7&color=0:FF0080,10:FF8C00,20:FFFF00,30:00FF00,40:00FFFF,50:0080FF,60:8000FF,70:FF00FF,80:FF1493,90:FFD700,100:00FFFF&section=footer"/>
 </div>
 
 
