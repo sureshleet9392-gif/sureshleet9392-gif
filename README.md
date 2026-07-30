@@ -254,7 +254,7 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -267,6 +267,11 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </a>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:00FFFF,20:1E90FF,40:FFFFFF,60:FFD700,80:FF4500,100:FF0000&section=footer"/>
+</div>
 
 <br><br>
 <p align="center">
@@ -297,9 +302,7 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:00FFFF,20:1E90FF,40:FFFFFF,60:FFD700,80:FF4500,100:FF0000&section=footer"/>
-</div>
+
 
 
 <p align="center">
