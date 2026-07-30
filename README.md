@@ -219,16 +219,26 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:12C2E9,50:C471ED,100:F64F59&text=Featured%20Projects%20%F0%9F%9A%80&fontColor=ffffff&fontSize=40"/>
+</p>
 
-| Project | Description | Stack |
-|---|---|---|
-| 💧 **Smart Water Overflow Alarm** | IoT-based automatic overflow prevention system | Embedded / IoT |
-| 🎵 **AI Music Generation** | Generative deep learning model for music composition | Python, Deep Learning |
-| ☕ **Java DSA Vault** | Curated collection of Java data structures & algorithms | Java |
-| 🌐 **Portfolio Website** | Personal developer portfolio site | HTML, CSS |
+<p align="center">
+  <b>Showcasing projects that demonstrate my skills in software development, AI, IoT, and problem-solving.</b>
+</p>
 
----
+<br>
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 💻 Tech Stack | 🔗 Repository |
+|:-----------|:---------------|:--------------|:-------------:|
+| 💧 **Smart Water Overflow Alarm** | IoT-based automatic water overflow prevention system using sensors and alarms. | Embedded Systems, IoT | <a href="YOUR_REPO_LINK">View</a> |
+| 🎵 **AI Music Generation** | Deep learning model that generates music using neural networks and MIDI datasets. | Python, TensorFlow, Deep Learning | <a href="YOUR_REPO_LINK">View</a> |
+| ☕ **Java DSA Vault** | Collection of Java Data Structures & Algorithms solutions with explanations. | Java, DSA | <a href="YOUR_REPO_LINK">View</a> |
+| 🌐 **Portfolio Website** | Responsive personal portfolio showcasing projects, skills, and certifications. | HTML, CSS, JavaScript | <a href="YOUR_REPO_LINK">View</a> |
+
+</div>
 
 ## 📜 Certifications
 
