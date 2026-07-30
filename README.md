@@ -144,19 +144,7 @@ I enjoy translating real-world problems into working software — from IoT autom
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </a>
 
-</div> href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</a>&nbsp;&nbsp;
 
-<a href="https://github.com/sureshleet9392-gif" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
