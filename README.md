@@ -198,45 +198,43 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 <a href="https://www.codingshuttle.com/compilers/java/" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <a href="https://www.codingshuttle.com/compilers/python/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <a href="https://nextleap.app/online-compiler/c-programming" target="_blank">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <a href="https://www.jdoodle.com/html-css-javascript-online-editor-ide" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <a href="https://www.jdoodle.com/html-css-javascript-online-editor-ide" target="_blank">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <a href="https://www.programiz.com/sql/online-compiler" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <a href="https://github.com/sureshleet9392-gif" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </a>
 
 
-
----
 
 ## 📊 GitHub Analytics
 
@@ -271,43 +269,8 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:00C9FF,100:92FE9D&text=Coding%20Profiles%20%F0%9F%92%BB&fontColor=ffffff&fontSize=40"/>
-</p>
 
-<p align="center">
-  <b>Strengthening problem-solving skills through competitive programming and continuous coding practice.</b>
-</p>
 
-<br>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:12C2E9,50:C471ED,100:F64F59&text=Featured%20Projects%20%F0%9F%9A%80&fontColor=ffffff&fontSize=40"/>
@@ -331,11 +294,7 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 </div>
 
 
----
 
-
-
----
 
 ## 🎧 Soundtrack While Coding
 
