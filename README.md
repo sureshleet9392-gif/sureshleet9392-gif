@@ -42,11 +42,7 @@ I enjoy translating real-world problems into working software — from IoT autom
 <a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
   <img src="https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117"/>
 </a>
-</div>
-
-<br>
-
-### ⚡ Developer Snapshot
+## ⚡ Developer Snapshot
 
 
 
@@ -57,10 +53,13 @@ I enjoy translating real-world problems into working software — from IoT autom
 - ***🎯 Currently learning System Design and Advanced Algorithms.***
 
 <br>
-
 <div align="center">
 
 > ### 🚀 <b>*"Code. Learn. Build. Repeat."*<b>
+</div>
+
+<br>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Tech%20Stack%20%F0%9F%92%BB&fontColor=ffffff&fontSize=40"/>
