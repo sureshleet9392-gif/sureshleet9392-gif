@@ -115,11 +115,6 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF512F,100:DD2476&height=3&section=footer"/>
-</div>
-
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:FF512F,20:F09819,40:F9D423,60:FF6A88,80:FF99AC,100:DD2476&section=footer"/>
 </div>
 
@@ -156,6 +151,9 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
   <img src="https://img.shields.io/badge/NPTEL%20Soft%20Skills-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:FF512F,20:F09819,40:F9D423,60:FF6A88,80:FF99AC,100:DD2476&section=footer"/>
 </div>
 
 
