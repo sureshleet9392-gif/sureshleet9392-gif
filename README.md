@@ -99,6 +99,12 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 </div>
 <br><br>
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF512F,100:DD2476&height=3&section=footer"/>
+</div>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:8E2DE2,100:4A00E0&text=Certifications%20%F0%9F%93%9C&fontColor=ffffff&fontSize=40"/>
 </p>
