@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sureshleet9392-gif&label=👀%20Profile%20Views&color=6C63FF&style=plastic"/>
 </p>
 </div>
-<div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=About%20Me%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=38&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
 </p>
@@ -13,6 +12,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
 </div>
+
 <p align="center">
 I'm a <b>B.Tech Computer Science student</b> with a strong focus on <b>Java Development</b><br>
 and a growing specialization in <b>Artificial Intelligence &amp; Machine Learning</b>.
@@ -27,15 +27,21 @@ to AI-powered generative solutions.
 
 <a href="https://rgmcet.edu.in/" target="_blank">
 <img src="https://img.shields.io/badge/🎓_Education-B.Tech,_CS-6C63FF?style=for-the-badge&labelColor=0d1117"/>
-</a>&nbsp;&nbsp;
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/sureshleet9392-gif?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117"/>
-</a>&nbsp;&nbsp;
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
 <img src="https://img.shields.io/badge/📈_Practice-Daily_DSA-FF6B00?style=for-the-badge&labelColor=0d1117"/>
-</a>&nbsp;&nbsp;
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
 <img src="https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117"/>
@@ -43,22 +49,35 @@ to AI-powered generative solutions.
 
 </p>
 
-## ⚡ Developer Snapshot
+<br>
 
-- 🎓 Pursuing B.Tech in Computer Science with a strong foundation in software development.
-- 💻 Backend-focused Java Developer with hands-on full-stack development experience.
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
-- 📈 Regularly solving Data Structures & Algorithms problems to strengthen problem-solving skills.
-- 🚀 Building practical projects in Java, AI/ML, IoT, and Web Development.
-- 🎯 Currently learning System Design and Advanced Data Structures & Algorithms.
+<div align="right">
+
+<h2>⚡ Developer Snapshot</h2>
+
+</div>
+
+<div align="right">
+
+🎓 Pursuing B.Tech in Computer Science with a strong foundation in software development.<br><br>
+
+💻 Backend-focused Java Developer with hands-on full-stack development experience.<br><br>
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.<br><br>
+
+📈 Regularly solving Data Structures & Algorithms problems to strengthen problem-solving skills.<br><br>
+
+🚀 Building practical projects in Java, AI/ML, IoT, and Web Development.<br><br>
+
+🎯 Currently learning System Design and Advanced Data Structures & Algorithms.
+
+</div>
 
 <br>
 
 <div align="center">
 
 ### 🚀 *"Code. Learn. Build. Repeat."*
-
-</div>
 
 </div>
 <br>
