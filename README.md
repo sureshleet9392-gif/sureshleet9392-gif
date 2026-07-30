@@ -100,7 +100,10 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 > ### 🚀 <b>*"Code. Learn. Build. Repeat."*<b>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Tech%20Stack%20%F0%9F%92%BB&fontColor=ffffff&fontSize=40"/>
+</p>
+
 <div align="center">
 
 <a href="https://www.codingshuttle.com/compilers/java/" target="_blank">
@@ -130,6 +133,18 @@ I enjoy translating real-world problems into working software — from IoT autom
 <br><br>
 
 <a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/sureshleet9392-gif" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</a>
+
+</div> href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
