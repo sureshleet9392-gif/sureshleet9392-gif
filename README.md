@@ -1,9 +1,15 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00FFFF,20:00FF00,40:FFFF00,60:FF8000,80:FF0000,100:FF00FF&section=footer"/>
+</div>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:FF512F,100:DD2476&text=Hi,%20I'm%20Charugundla%20Suresh%20👋&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20🚀&descAlignY=65&descSize=24"/>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sureshleet9392-gif&label=👀%20Profile%20Views&color=6C63FF&style=plastic"/>
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00FFFF,20:00FF00,40:FFFF00,60:FF8000,80:FF0000,100:FF00FF&section=footer"/>
+</div>
 
 
 </div>
@@ -43,10 +49,7 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 </p>
 
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00FFFF,20:00FF00,40:FFFF00,60:FF8000,80:FF0000,100:FF00FF&section=footer"/>
-</div>
+
 
 ### ⚡ Developer Snapshot
 
