@@ -171,15 +171,15 @@ I enjoy translating real-world problems into working software — from IoT autom
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshleet9392-gif&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:F7971E,100:FFD200&text=GitHub%20Trophies%20%F0%9F%8F%86&fontColor=ffffff&fontSize=40"/>
+</p>
 
 <div align="center">
 
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=sureshleet9392-gif&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=20&margin-h=20"/>
 
 </div>
----
 
 ## 💻 Coding Profiles
 
