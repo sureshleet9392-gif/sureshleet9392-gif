@@ -119,6 +119,10 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 </div>
 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:FF512F,20:F09819,40:F9D423,60:FF6A88,80:FF99AC,100:DD2476&section=footer"/>
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:8E2DE2,100:4A00E0&text=Certifications%20%F0%9F%93%9C&fontColor=ffffff&fontSize=40"/>
 </p>
