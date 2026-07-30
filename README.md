@@ -27,19 +27,15 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 <img src="https://img.shields.io/badge/🎓_Education-B.Tech,_CS-6C63FF?style=for-the-badge&labelColor=0d1117"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://github.com/sureshleet9392-gif?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117"/>
 </a>
-
-<br><br>
 
 <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
 <img src="https://img.shields.io/badge/📈_Practice-Daily_DSA-FF6B00?style=for-the-badge&labelColor=0d1117"/>
 </a>
 
-&nbsp;&nbsp;
+
 
 <a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
 <img src="https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117"/>
