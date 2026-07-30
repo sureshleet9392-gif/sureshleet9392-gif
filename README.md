@@ -156,20 +156,16 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
   <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:FF512F,20:F09819,40:F9D423,60:FF6A88,80:FF99AC,100:DD2476&section=footer"/>
 </div>
 
-
+<br><br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00FF00,20:BFFF00,40:FFFF00,60:FFA500,80:FF4500,100:FF0000&section=footer"/>
 </div>
-
-<br><br>
 
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00FF00,20:BFFF00,40:FFFF00,60:FFA500,80:FF4500,100:FF0000&section=footer"/>
