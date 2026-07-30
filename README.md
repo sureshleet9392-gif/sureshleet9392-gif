@@ -252,9 +252,9 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 <div align="center">
 
-<a href="YOUR_AZURE_CERTIFICATE_LINK" target="_blank">
-  <img src="<img width="1287" height="994" alt="image" src="<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/616c1548-9b1f-4070-9207-3dc029b65729" />
-" />
+<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/azure-ai.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
 
 </a>
 
