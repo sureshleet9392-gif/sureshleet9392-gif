@@ -74,19 +74,14 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/profile/YOUR_USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
