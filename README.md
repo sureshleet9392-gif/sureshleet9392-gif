@@ -162,8 +162,6 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
   🚀 Open to internships, open-source contributions, project collaborations, and exciting tech opportunities.
 </p>
 
-<br>
-
 <p align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=suresh9676888@gmail.com" target="_blank">
