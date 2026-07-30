@@ -253,8 +253,8 @@ I enjoy translating real-world problems into working software — from IoT autom
 <div align="center">
 
 <a href="YOUR_AZURE_CERTIFICATE_LINK" target="_blank">
-  <img src="<img width="1287" height="994" alt="image" src="https://github.com/user-attachments/assets/3dfd56ee-5bbe-41d1-a9e9-ba97a0674201" />
-"/>
+  <img src="<<img width="1287" height="994" alt="image" src="https://github.com/user-attachments/assets/9fd846a1-5de8-4dc1-8f91-20fd2e1b0ac4" />
+
 </a>
 
 <a href="YOUR_ORACLE_CERTIFICATE_LINK" target="_blank">
