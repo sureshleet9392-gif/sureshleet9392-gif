@@ -18,9 +18,11 @@
 </div>
 
 <p align="center">
-I'm a <b>B.Tech Computer Science student</b> with a strong focus on <b>Java Development</b> and a growing specialization in <b>Artificial Intelligence & Machine Learning</b>.
+I'm a <b>B.Tech Computer Science student</b> with a strong focus on <b>Java Development</b><br>
+and a growing specialization in <b>Artificial Intelligence &amp; Machine Learning</b>.
 <br><br>
-I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative solutions.
+I enjoy translating real-world problems into working software—from IoT automation<br>
+to AI-powered generative solutions.
 </p>
 
 <br>
