@@ -219,7 +219,7 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -233,8 +233,7 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </a>
 
-
-
+<br><br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=Contribution%20Activity&fontSize=40&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
 </p>
