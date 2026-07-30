@@ -124,7 +124,17 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 </div>
 
+<div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF512F,100:DD2476&height=6&section=footer"/>
+</div>
 
 
 
@@ -311,48 +321,10 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:8E2DE2,100:4A00E0&text=Certifications%20%F0%9F%93%9C&fontColor=ffffff&fontSize=40"/>
-</p>
-
-<p align="center">
-  <b>Professional certifications showcasing my expertise in AI, Cloud Computing, Programming, and Soft Skills.</b>
-</p>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/azure%20ai.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</a>&nbsp;&nbsp;
-
-
-<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/oracle.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>&nbsp;&nbsp;
-
-
-
-<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/cryptography.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Cryptography%20Certificate-4B0082?style=for-the-badge&logo=academia&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/soft%20skills.jfif" target="_blank">
-  <img src="https://img.shields.io/badge/NPTEL%20Soft%20Skills-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</div>
 
 ---
 
