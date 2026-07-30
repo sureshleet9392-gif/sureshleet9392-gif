@@ -236,7 +236,9 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=Contribution%20Activity&fontSize=40&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
+</p>
 
 <div align="center">
 
@@ -262,12 +264,6 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:F7971E,100:FFD200&text=GitHub%20Trophies%20%F0%9F%8F%86&fontColor=ffffff&fontSize=40"/>
 </p>
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=sureshleet9392-gif&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=20&margin-h=20"/>
-
-</div>
 
 
 
