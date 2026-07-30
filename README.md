@@ -54,7 +54,7 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 </p>
 
 
-
+---
 ### ⚡ Developer Snapshot
 
 - 🎓 Pursuing **B.Tech in Computer Science**.
