@@ -4,6 +4,8 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sureshleet9392-gif&label=👀%20Profile%20Views&color=6C63FF&style=plastic"/>
 </p>
+
+
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=About%20Me%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=38&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
@@ -57,6 +59,10 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 ### 🚀 *"Code. Learn. Build. Repeat."*
 
 </div>
+
+
+
+
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:00C9FF,100:92FE9D&text=Coding%20Profiles%20%F0%9F%92%BB&fontColor=ffffff&fontSize=40"/>
@@ -123,6 +129,9 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 </a>
 
 </div>
+
+
+
 
 <div align="center">
 
