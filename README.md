@@ -92,6 +92,7 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 </a>&nbsp;&nbsp;
 
 </div>
+<br><br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:8E2DE2,100:4A00E0&text=Certifications%20%F0%9F%93%9C&fontColor=ffffff&fontSize=40"/>
@@ -254,14 +255,11 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 <img width="70%" src="https://streak-stats.demolab.com?user=sureshleet9392-gif&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshleet9392-gif&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
-
-
 
 
 <p align="center">
