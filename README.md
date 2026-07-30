@@ -72,22 +72,80 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+</a>&nbsp;&nbsp;
 
 
 <a href="https://www.hackerrank.com/profile/YOUR_USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>&nbsp;&nbsp;
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:8E2DE2,100:4A00E0&text=Certifications%20%F0%9F%93%9C&fontColor=ffffff&fontSize=40"/>
+</p>
+
+<p align="center">
+  <b>Professional certifications showcasing my expertise in AI, Cloud Computing, Programming, and Soft Skills.</b>
+</p>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/azure%20ai.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>&nbsp;&nbsp;
+
+
+<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/oracle.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>&nbsp;&nbsp;
+
+
+
+<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/cryptography.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Cryptography%20Certificate-4B0082?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/soft%20skills.jfif" target="_blank">
+  <img src="https://img.shields.io/badge/NPTEL%20Soft%20Skills-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
