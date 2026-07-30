@@ -252,9 +252,9 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 <div align="center">
 
-<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/azure-ai.pdf" target="_blank">
+<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/azure%20ai.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft%20Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 
 </a>
 
