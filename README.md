@@ -157,7 +157,11 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 </div>
 
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00FF00,20:BFFF00,40:FFFF00,60:FFA500,80:FF4500,100:FF0000&section=footer"/>
+</div>
 
+<br><br>
 
 <div align="center">
 
@@ -168,7 +172,7 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 <br>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF512F,100:DD2476&height=6&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:00FF00,20:BFFF00,40:FFFF00,60:FFA500,80:FF4500,100:FF0000&section=footer"/>
 </div>
 
 
