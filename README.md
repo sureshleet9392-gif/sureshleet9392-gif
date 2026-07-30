@@ -9,20 +9,17 @@
 <br>
 
 <br>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=About%20Me%20👨‍💻&fontSize=38&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&text=About%20Me%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=38&fontColor=ffffff&color=0:FF512F,100:DD2476"/>
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E75B6,100:6C63FF&height=3&section=header"/>
 </div>
 
-
-
 <p align="center">
-I'm a <b>B.Tech Computer Science student</b> with a strong focus on <b>Java Development</b> and a growing specialization in <b>Artificial Intelligence & Machine Learning</b>.<br><br>
-I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative tools.
+  I'm a <b>B.Tech Computer Science student</b> with a strong focus on <b>Java Development</b> and a growing specialization in <b>Artificial Intelligence & Machine Learning</b>.<br><br>
+  I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative solutions.
 </p>
 
 <br>
@@ -32,32 +29,45 @@ I enjoy translating real-world problems into working software — from IoT autom
 <a href="https://rgmcet.edu.in/" target="_blank">
   <img src="https://img.shields.io/badge/🎓_Education-B.Tech,_CS-6C63FF?style=for-the-badge&labelColor=0d1117"/>
 </a>
-<a href="https://github.com/sureshleet9392-gif?tab=repositories">
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/sureshleet9392-gif?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117"/>
 </a>
 
-<a href="https://leetcode.com/your_username">
-  <img src="https://img.shields.io/badge/📈_Practice-Daily_DSA-0E75B6?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/📈_Practice-Daily_DSA-FF6B00?style=for-the-badge&labelColor=0d1117"/>
 </a>
+
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
   <img src="https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117"/>
 </a>
-## ⚡ Developer Snapshot
 
-
-
-- ***🎓 Pursuing B.Tech with a strong foundation in Computer Science.***
-- ***💻 Backend-focused Java Developer with full-stack exposure.***
-- ***🤖 Building AI/ML-powered applications and real-world projects.***
-- ***📈 Solving DSA problems consistently to strengthen problem-solving skills.***
-- ***🎯 Currently learning System Design and Advanced Algorithms.***
-
-<br>
-<div align="center">
-
-> ### 🚀 <b>*"Code. Learn. Build. Repeat."*<b>
 </div>
 
+<br>
+
+## ⚡ Developer Snapshot
+
+- ***🎓 Pursuing B.Tech in Computer Science with a strong foundation in software development.***
+- ***💻 Backend-focused Java Developer with hands-on full-stack development experience.***
+- ***🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.***
+- ***📈 Regularly solving Data Structures & Algorithms problems to strengthen problem-solving skills.***
+- ***🚀 Building practical projects in Java, AI/ML, IoT, and Web Development.***
+- ***🎯 Currently learning System Design and Advanced Data Structures & Algorithms.***
+
+<br>
+
+<div align="center">
+
+> ### 🚀 **"Code. Learn. Build. Repeat."**
+
+</div>
 <br>
 
 
