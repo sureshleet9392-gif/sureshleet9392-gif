@@ -60,9 +60,7 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 
 </div>
 
-
-
-
+<b><br>
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:00C9FF,100:92FE9D&text=Coding%20Profiles%20%F0%9F%92%BB&fontColor=ffffff&fontSize=40"/>
@@ -220,7 +218,7 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -261,9 +259,7 @@ I enjoy building practical software solutions—from IoT automation to AI-powere
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshleet9392-gif&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:F7971E,100:FFD200&text=GitHub%20Trophies%20%F0%9F%8F%86&fontColor=ffffff&fontSize=40"/>
-</p>
+
 
 
 
