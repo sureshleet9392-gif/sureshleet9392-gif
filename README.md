@@ -240,14 +240,39 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 </div>
 
-## 📜 Certifications
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:8E2DE2,100:4A00E0&text=Certifications%20%F0%9F%93%9C&fontColor=ffffff&fontSize=40"/>
+</p>
+
+<p align="center">
+  <b>Professional certifications showcasing my expertise in AI, Cloud Computing, Programming, and Soft Skills.</b>
+</p>
+
+<br>
 
 <div align="center">
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL%20Certified-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white)
+<a href="YOUR_AZURE_CERTIFICATE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_ORACLE_CERTIFICATE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_AWS_CERTIFICATE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/AWS%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_NPTEL_CERTIFICATE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/NPTEL%20Certified-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
 
 </div>
 
