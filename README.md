@@ -18,54 +18,49 @@
 </div>
 
 <p align="center">
-  I'm a <b>B.Tech Computer Science student</b> with a strong focus on <b>Java Development</b> and a growing specialization in <b>Artificial Intelligence & Machine Learning</b>.<br><br>
-  I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative solutions.
+I'm a <b>B.Tech Computer Science student</b> with a strong focus on <b>Java Development</b> and a growing specialization in <b>Artificial Intelligence & Machine Learning</b>.
+<br><br>
+I enjoy translating real-world problems into working software — from IoT automation to AI-powered generative solutions.
 </p>
 
 <br>
 
-<div align="center">
+<p align="center">
 
 <a href="https://rgmcet.edu.in/" target="_blank">
-  <img src="https://img.shields.io/badge/🎓_Education-B.Tech,_CS-6C63FF?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🎓_Education-B.Tech,_CS-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/sureshleet9392-gif?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/💻_Role-Java_Developer-0E75B6?style=for-the-badge&labelColor=0d1117"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/📈_Practice-Daily_DSA-FF6B00?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📈_Practice-Daily_DSA-FF6B00?style=for-the-badge&labelColor=0d1117"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/charugundlasuresh/" target="_blank">
-  <img src="https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🎯_Status-Open_to_Opportunities-2EC866?style=for-the-badge&labelColor=0d1117"/>
 </a>
 
-</div>
+</p>
 
 <br>
 
 ## ⚡ Developer Snapshot
 
-- ***🎓 Pursuing B.Tech in Computer Science with a strong foundation in software development.***
-- ***💻 Backend-focused Java Developer with hands-on full-stack development experience.***
-- ***🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.***
-- ***📈 Regularly solving Data Structures & Algorithms problems to strengthen problem-solving skills.***
-- ***🚀 Building practical projects in Java, AI/ML, IoT, and Web Development.***
-- ***🎯 Currently learning System Design and Advanced Data Structures & Algorithms.***
+- 🎓 Pursuing B.Tech in Computer Science with a strong foundation in software development.
+- 💻 Backend-focused Java Developer with hands-on full-stack development experience.
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
+- 📈 Regularly solving Data Structures & Algorithms problems to strengthen problem-solving skills.
+- 🚀 Building practical projects in Java, AI/ML, IoT, and Web Development.
+- 🎯 Currently learning System Design and Advanced Data Structures & Algorithms.
 
 <br>
 
 <div align="center">
 
-> ### 🚀 **"Code. Learn. Build. Repeat."**
+### 🚀 *"Code. Learn. Build. Repeat."*
 
 </div>
 <br>
