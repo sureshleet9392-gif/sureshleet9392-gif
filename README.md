@@ -181,14 +181,39 @@ I enjoy translating real-world problems into working software — from IoT autom
 
 </div>
 
-## 💻 Coding Profiles
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:00C9FF,100:92FE9D&text=Coding%20Profiles%20%F0%9F%92%BB&fontColor=ffffff&fontSize=40"/>
+</p>
+
+<p align="center">
+  <b>Strengthening problem-solving skills through competitive programming and continuous coding practice.</b>
+</p>
+
+<br>
 
 <div align="center">
 
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 </div>
 
