@@ -182,10 +182,9 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:FF512F,100:DD2476&text=Connect%20Me%20🤝&fontColor=ffffff&fontSize=40"/>
 </p>
 <p align="center">
-  💬 <b>Let's connect, collaborate, and build innovative solutions together.</b><br>
-  🚀 Open to internships, open-source contributions, project collaborations, and exciting tech opportunities.
+  💼 <b>Open to internships, collaborations, and software development opportunities.</b>
+  🚀 Let's connect, innovate, and build impactful technology together.
 </p>
-
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=suresh9676888@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
