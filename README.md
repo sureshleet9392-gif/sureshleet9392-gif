@@ -256,13 +256,12 @@ I enjoy translating real-world problems into working software — from IoT autom
   <img src="https://img.shields.io/badge/Microsoft%20Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
-</a>
 
-<a href="YOUR_ORACLE_CERTIFICATE_LINK" target="_blank">
+<a href="https://github.com/sureshleet9392-gif/sureshleet9392-gif/blob/main/assets/oracle.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <a href="YOUR_AWS_CERTIFICATE_LINK" target="_blank">
   <img src="https://img.shields.io/badge/AWS%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
