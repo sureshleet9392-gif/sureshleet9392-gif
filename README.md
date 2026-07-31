@@ -418,7 +418,7 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 </a>
 
 </div>
-<br><br
+
 
 
 
@@ -427,13 +427,15 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
   <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:8E2DE2,100:4A00E0"/>
 
 </div>
+<br><br>
 
----
 
 <div align="center">
 
-<b style="font-size:16px;">"Code. Learn. Build. Repeat." 🚀</b>
+<h3>💻 <i>"Code. Learn. Build. Repeat."</i> 🚀</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6C63FF,100:0E75B6&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,35:302b63,70:24243e,100:00F5FF&text=Thanks%20for%20Visiting!%20👋&fontColor=00F5FF&fontSize=34&animation=twinkling&fontAlignY=38&desc=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Growing&descAlignY=62&descSize=18"/>
 
 </div>
