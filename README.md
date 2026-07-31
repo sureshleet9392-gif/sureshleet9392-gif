@@ -337,9 +337,7 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:001F3F,20:0074D9,40:00BFFF,60:7FDBFF,80:00FFFF,100:E0FFFF&section=footer"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:9400D3,20:8A2BE2,40:DA70D6,60:FF00FF,80:FF69B4,100:FFC0CB&section=footer"/> </div>
 
 <br><br>
 
@@ -362,20 +360,17 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxZnk1bWcyeHV5d2Q2Z2Vud3N5azByNjR4Zm9sd2I5bG0xdGl2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PUjMWyYZZlWdTAVjIV/giphy.gif"
-  width="200"
+  width="350"
   alt="Coding GIF"
 />
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:001F3F,20:0074D9,40:00BFFF,60:7FDBFF,80:00FFFF,100:E0FFFF&section=footer"/>
-</div>
----
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:9400D3,20:8A2BE2,40:DA70D6,60:FF00FF,80:FF69B4,100:FFC0CB&section=footer"/> </div>
 
 ## 💭 Quote of the Day
 
