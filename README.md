@@ -344,20 +344,36 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 <br><br>
 
 
-## 🎧 Soundtrack While Coding
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:001F3F,20:0074D9,40:00BFFF,60:7FDBFF,80:00FFFF,100:E0FFFF&section=footer"/>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:1DB954,100:191414&text=Developer%20Playlist&fontColor=ffffff&fontSize=40"/>
+</p>
+
+<p align="center">
+  🎵 Music that fuels my focus, creativity, and productivity while coding.
+</p>
 
 <div align="center">
 
 <a href="https://open.spotify.com/user/31tbnuq2r3lkvpmsttn34gvd3kbu" target="_blank">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tbnuq2r3lkvpmsttn34gvd3kbu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=6C63FF&bar_color_cover=false"/>
+<img
+  src="https://spotify-github-profile.vercel.app/api/view?uid=31tbnuq2r3lkvpmsttn34gvd3kbu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=1DB954&bar_color_cover=false"
+  alt="Spotify Now Playing"
+/>
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:001F3F,20:0074D9,40:00BFFF,60:7FDBFF,80:00FFFF,100:E0FFFF&section=footer"/>
+</div>
 ---
 
 ## 💭 Quote of the Day
