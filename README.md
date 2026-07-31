@@ -395,10 +395,37 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 </div>
 <br><br>
 
-## ✍️ Latest Articles
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:8E2DE2,100:4A00E0"/>
+
+</div>
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:12100E,100:434343&text=%20Articles%20&fontColor=ffffff&fontSize=40"/> 
+
+</p>
+<p align="center">
+
+  ✍️ Sharing my learning journey through technical articles.
+
+</p>
+<div align="center">
+<a href="https://medium.com/@suresh9676888" target="_blank">
+
+  <img src="https://img.shields.io/badge/Read%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+
+</a>
+
+</div>
+<br><br
+
+
 
 <div align="center">
-<a href="https://medium.com/@suresh9676888"><img src="https://img.shields.io/badge/Read%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:8E2DE2,100:4A00E0"/>
+
 </div>
 
 ---
