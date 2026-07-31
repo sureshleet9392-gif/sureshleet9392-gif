@@ -24,7 +24,7 @@
 
 <p align="center">
 Passionate <b>B.Tech Computer Science student</b> with a strong foundation in
-<b>Java</b>, <b>Data Structures & Algorithms</b>, and <b>Software Development</b>.<br>
+<b>Java</b>, <b>Data Structures & Algorithms</b>, and <b>Software Development.<br>
 Focused on creating scalable applications, exploring <b>Artificial Intelligence</b>
 and <b>Machine Learning</b>, and contributing to impactful real-world projects through continuous learning and innovation.
 </p>
