@@ -337,14 +337,17 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 
 </div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:9400D3,20:8A2BE2,40:DA70D6,60:FF00FF,80:FF69B4,100:FFC0CB&section=footer"/> </div>
 
-<br><br>
+
 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:001F3F,20:0074D9,40:00BFFF,60:7FDBFF,80:00FFFF,100:E0FFFF&section=footer"/>
 </div>
+<br><br>
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:9400D3,20:8A2BE2,40:DA70D6,60:FF00FF,80:FF69B4,100:FFC0CB&section=footer"/> </div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:1DB954,100:191414&text=Developer%20Playlist&fontColor=ffffff&fontSize=40"/>
@@ -372,13 +375,25 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:9400D3,20:8A2BE2,40:DA70D6,60:FF00FF,80:FF69B4,100:FFC0CB&section=footer"/> </div>
 
-## 💭 Quote of the Day
-
+<br><br>
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:39FF14,20:00FF00,40:7CFC00,60:ADFF2F,80:00FA9A,100:00FFFF&section=footer"/>
 </div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=0:00C6FF,100:0072FF&text=Daily%20Inspiration%20✨&fontColor=ffffff&fontSize=40"/>
+</p>
 
----
+<p align="center">
+<i>Code with passion. Learn continuously. Build with purpose.</i>
+</p>
+
+<p align="center">
+<img width="85%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=6&color=0:39FF14,20:00FF00,40:7CFC00,60:ADFF2F,80:00FA9A,100:00FFFF&section=footer"/>
+</div>
+<br><br>
 
 ## ✍️ Latest Articles
 
