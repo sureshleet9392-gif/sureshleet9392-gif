@@ -436,6 +436,6 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:0f0c29,35:302b63,70:24243e,100:00F5FF&text=Thanks%20for%20Visiting!%20👋&fontColor=00F5FF&fontSize=34&animation=twinkling&fontAlignY=38&desc=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Growing&descAlignY=62&descSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0f0c29,35:302b63,70:24243e,100:00F5FF&text=Thanks%20for%20Visiting!%20👋&fontColor=00F5FF&fontSize=34&animation=twinkling&fontAlignY=38&desc=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Growing&descAlignY=62&descSize=30"/>
 
 </div>
