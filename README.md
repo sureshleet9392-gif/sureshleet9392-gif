@@ -359,14 +359,15 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
 <div align="center">
 
 <a href="https://open.spotify.com/user/31tbnuq2r3lkvpmsttn34gvd3kbu" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
 <br><br>
 
 <img
-  src="https://spotify-github-profile.vercel.app/api/view?uid=31tbnuq2r3lkvpmsttn34gvd3kbu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=1DB954&bar_color_cover=false"
-  alt="Spotify Now Playing"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxZnk1bWcyeHV5d2Q2Z2Vud3N5azByNjR4Zm9sd2I5bG0xdGl2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PUjMWyYZZlWdTAVjIV/giphy.gif"
+  width="200"
+  alt="Coding GIF"
 />
 
 </div>
