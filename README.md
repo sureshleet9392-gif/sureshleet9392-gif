@@ -199,7 +199,7 @@ and <b>Machine Learning</b>, and contributing to impactful real-world projects t
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://x.com/Suresh388860" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
